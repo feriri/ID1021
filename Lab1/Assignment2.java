@@ -75,7 +75,7 @@ public class Assignment2 <Data>{
       System.out.println("Iterative version: ");
       // push all the characters in the stack and then pop them out
 
-      for(int i = 0; i < str.length(); i++) {      // loop through alla characters in the string    
+      for(int i = 0; i < str.length(); i++) {       
          stack.push(str.charAt(i));                // store char in stack
       }
       while (stack.size()>0) {                     // print char from stack
