@@ -91,7 +91,7 @@ public class Assignment4<Data> implements Iterable<Data> {
         else throw new NoSuchElementException("Queue underflow"); 
     }
 
-	public void print() {
+    public void print() {
 		StringBuilder str = new StringBuilder();
 		int count = 1;
 		for(Data data : this) {
