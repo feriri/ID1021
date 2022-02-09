@@ -1,6 +1,5 @@
 import java.util.*;
 /* 
-// some codes are taken from princeton
 ░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓░ ▒ ▓
 Experiment with the cut-off to insertionsort in mergesort. How is the execution time
 affected by different values for the cut-off? A suitable range for cut-off values to
